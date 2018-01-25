@@ -1,0 +1,3 @@
+-xpool stratum+tcp://xdn-xmr.pool.minergate.com:45790
+-xwal u4090670@mvrht.net
+-xpsw x
